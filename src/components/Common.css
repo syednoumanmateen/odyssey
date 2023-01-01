@@ -1,0 +1,35 @@
+.odyssey-bg {
+  background-image: url('../images/odyssey.svg');
+  background-size: cover;
+  overflow: scroll;
+  height: 100vh;
+  font-weight: 400 !important;
+  text-transform: uppercase;
+}
+
+.odyssey-bg::-webkit-scrollbar {
+  display: none;
+}
+
+.placeholder::-webkit-input-placeholder {
+  color: rgb(152, 160, 154);
+}
+
+.number::-webkit-outer-spin-button,
+.number::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.footer {
+  position: relative;
+  top: 200px;
+}
+
+.blog-title {
+  font-family: 'Six Caps', sans-serif !important;
+  font-size: 150px;
+  line-height: 100% !important;
+  font-weight: 400 !important;
+  text-transform: uppercase;
+}

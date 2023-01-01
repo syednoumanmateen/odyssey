@@ -1,0 +1,84 @@
+.slide {
+  width: 100%;
+  background-size: cover;
+}
+
+.slide-blog {
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+/* Brand */
+.slideBrand1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/brand/slide1.jpg");
+}
+
+.slideBrand2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/brand/slide2.jpg");
+}
+
+.slideBrand3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/brand/slide3.jpg");
+}
+
+/* Menu */
+.slideMenu1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/menu/slide1.jpg");
+}
+
+.slideMenu2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/menu/slide2.jpg");
+}
+
+/* Contact */
+.slideContact1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/contact/slide1.jpg");
+}
+
+.slideContact2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/contact/slide2.jpg");
+}
+
+/* Book */
+.slideBook1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/contact/slide1.jpg");
+}
+
+.slideBook2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/contact/slide2.jpg");
+}
+
+/* Blog */
+.slideBlog1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/blog/slide1.jpg");
+}
+
+.slideBlog2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/blog/slide2.jpg");
+}
+
+/* Blog */
+.slideAbout1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/about/slide1.jpg");
+}
+
+.slideAbout2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/about/slide2.jpg");
+}
+
+/* blog&events */
+.slideBlogDetails1 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/blog&events/blog-bg1.jpg");
+}
+
+.slideBlogDetails2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/blog&events/blog-bg2.jpg");
+}
+
+.slideBlogDetails3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/blog&events/blog-bg3.jpg");
+}
+
+.slideBlogDetails4 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/src/images/blog&events/blog-bg4.jpg");
+}
